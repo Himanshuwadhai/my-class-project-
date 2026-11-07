@@ -1,0 +1,26 @@
+Transaction_ID,Customer_ID,Item,Price_Per_Unit,Quantity
+1001,C001,Wireless Mouse,25.0,2
+1002,C002,Mechanical Keyboard,85.0,1
+1003,NaN,USB Cable,12.0,5
+1004,C003,Monitor,,2
+1005,C001,HDMI Cable,15.0,
+1006,C004,Laptop Stand,45.0,1
+1007,NaN,Headphones,50.0,1
+1008,C002,Webcam,60.0,1
+1009,C003,Mouse Pad,15.0,4
+1010,C001,Wireless Mouse,25.0,1
+1011,C005,Gaming Chair,250.0,1
+1012,NaN,External SSD,120.0,2
+1013,C002,USB Hub,30.0,3
+1014,C001,Bluetooth Speaker,,1
+1015,C003,Monitor,200.0,
+1016,C004,Printer,300.0,1
+1017,C005,Mouse Pad,15.0,2
+1018,NaN,Laptop Sleeve,25.0,1
+1019,C002,Mechanical Keyboard,85.0,1
+1020,C001,HDMI Cable,15.0,2
+1021,C003,Wireless Mouse,25.0,5
+1022,C004,Webcam,,1
+1023,C005,USB Cable,12.0,10
+1024,NaN,Monitor Arm,75.0,1
+1025,C002,External SSD,120.0,1
